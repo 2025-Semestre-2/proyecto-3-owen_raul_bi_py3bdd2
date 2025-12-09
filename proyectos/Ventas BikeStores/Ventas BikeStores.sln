@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Ventas BikeStores", "Ventas BikeStores\Ventas BikeStores.dwproj", "{0B892357-49AC-4E28-879A-F8CCFA19070E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B892357-49AC-4E28-879A-F8CCFA19070E}.Development|Default.ActiveCfg = Development
+		{0B892357-49AC-4E28-879A-F8CCFA19070E}.Development|Default.Build.0 = Development
+		{0B892357-49AC-4E28-879A-F8CCFA19070E}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2561C12B-4245-4CBE-BFDB-09DC7876D275}
+	EndGlobalSection
+EndGlobal
