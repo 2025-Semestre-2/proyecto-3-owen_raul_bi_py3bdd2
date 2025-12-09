@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.BikeStore_Stage"
+  DTS:DTSID="{24912CAB-AD65-4F33-9EC6-FFFFA9B27BD4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=BikeStore_Stage;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-BikeStore_ETL-{24912CAB-AD65-4F33-9EC6-FFFFA9B27BD4}localhost.BikeStore_Stage;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
